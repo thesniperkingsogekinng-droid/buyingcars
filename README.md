@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NeonCars — React + Tailwind Dark Neon Theme
 
 This is a starter prototype of a car marketplace with a dark, neon-styled UI. It includes sample data, a listing page, offer modal, and a product detail page. It's intentionally a frontend-only scaffold so you can plug APIs or payment integrations later.
@@ -21,3 +22,6 @@ Next improvements I can help with:
 - Connect a backend API for real car inventory and offers.
 - Add authentication and real checkout integration (Stripe/Paytm).
 - Polish animations and add infinite scroll or filtering.
+=======
+# buyingcars
+>>>>>>> a3ac6f911a8b1f0e68ca03154abe6174dcaf4e68
